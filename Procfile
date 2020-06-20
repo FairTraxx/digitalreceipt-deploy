@@ -1,1 +1,1 @@
-web: gunicorn <name of my main folder app>.wsgi --log-file -
+web: gunicorn digitalReceipt.wsgi --log-file -
