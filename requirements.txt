@@ -1,4 +1,5 @@
-djangorestframework==3.11.0
 django
 gunicorn
-web: gunicorn app_name:app --log-file -
+django-heroku
+djangorestframework
+djoser
